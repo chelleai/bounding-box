@@ -1,4 +1,5 @@
 ipykernel
+label-studio
 matplotlib
 numpy
 pandas
